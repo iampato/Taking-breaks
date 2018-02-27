@@ -2,9 +2,9 @@
 import time
 import webbrowser
 
-total_count=3
 count=0
-wait_time=input("Enter the number of hours  to wait befire the break ")
+total_count=int(input("Enter number of times you want it to repeat: "))
+wait_time=input("Enter the number of hours  to wait befire the break: ")
 
 while(count<total_count):
 	print(" The program started at: "+time.ctime())
