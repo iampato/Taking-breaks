@@ -8,7 +8,5 @@ COMMITS:
 
 1. the first one the user can change the delay time its not fixed two hours
 2. the user can change the number of loops
-3. the user can change which url to visit but by default it will play odi-dance if the user does not change it
-    
     
 Happpy coding!!!
